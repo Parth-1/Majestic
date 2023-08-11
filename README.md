@@ -1,3 +1,3 @@
 # Majestic
 Replica of https://www.ksox.finance/
-Website Link:-
+Website Link:-https://parth-1.github.io/Majestic/
